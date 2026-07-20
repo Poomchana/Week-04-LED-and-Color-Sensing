@@ -141,8 +141,7 @@ idf_component_register(SRCS "main.c"
 ### 4.  บันทึกผลการทดลอง 
 
 #### 4.1 จาก `idf.py monitor` 
-
-```
+<img width="1297" height="481" alt="image" src="https://github.com/user-attachments/assets/3a08512a-0400-4fc7-86c7-4d0813562e37" />
 
 
 ```
